@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Aref+Ruqaa+Ink&family=Dancing+Script:wght@700&family=Josefin+Sans&family=Luckiest+Guy&family=Montserrat:wght@200&display=swap');
+.b{
+    font-family: 'Montserrat', sans-serif;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(1, 1, 45);
+}
+h2{
+    text-align: center;
+}
+.i{
+    text-align: center;
+    font-style: italic;
+}
+#parent{
+  border-color: rgb(38, 32, 32);
+  border-style: solid;
+  width: 99%;
+    }
+
+div{
+    height: 620px;
+    width: 280px;
+    position: absolute;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 13px;
+}
+.imdb{
+    width: 95%;
+    height: 25px;
+    position: absolute;
+    left: 1%;
+    bottom: 0px;
+    border: rgb(0, 0, 0) 4px;
+    border-style: solid double;
+    border-radius: 5px;
+    text-align: center;
+    font-size: medium;
+    padding-top: 10px;
+}
+
+img{
+    height: 360px;
+    width: 280px;
+}
+.d1{
+    left: 1%;
+    background-image: conic-gradient(blue,white);
+}
+.d2{
+    left: 21%;
+    background-image: linear-gradient(yellow, brown, rgb(244, 183, 69),rgba(128, 128, 128, 0.47));
+}
+.d3{
+    left: 41%;
+    background-image: conic-gradient(rgb(0, 85, 255), orange);
+}
+.d4{
+    left: 61%;
+    background-image: conic-gradient( rgba(240, 216, 131, 0.507), rgb(164, 195, 205));
+}
+.d5{
+    left: 81%;
+    background-image: conic-gradient(red, rgba(255, 0, 0, 0.366),rgba(123, 95, 183, 0.788), rgba(122, 65, 122, 0.771), blue);
+}
